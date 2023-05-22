@@ -1,0 +1,20 @@
+Crear una carpeta en cli:
+	mkdir + nombre de la carpeta
+
+Eliminar una carpteta en cli:
+	rmdir + nombre de la carpeta
+	rmdir -rf + nombre de la carpeta en caso de que la carpeta no este vacia
+
+Crear un archivo en cli:
+	touch + nombre de la carpeta
+
+Eliminar un archibo en cli:
+	rm + nombre de la carpeta.
+
+
+------------------  GIT  --------------------
+Crear una nueva rama en Git:
+	git branch +nombre de la rama
+
+Cambiarse de rama en git:
+	git checkout + nombre de la rama
