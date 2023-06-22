@@ -1,0 +1,6 @@
+IP Publica : 190.236.xx.xxx
+IP Privada : 10.0.2.15
+Mascara subred: 255.255.255.0
+
+¿Es diferente a la IP Pública y privada de nuestra máquina host?
+Si, son diferentes
